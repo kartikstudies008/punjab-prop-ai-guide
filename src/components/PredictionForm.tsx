@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Building, Home, Maximize, Sofa, Bath, Car, Calendar, Loader2, IndianRupee, TrendingUp, BarChart3 } from "lucide-react";
 
-const CITIES = ["Mohali", "Kharar", "Zirakpur", "Chandigarh", "Ludhiana", "Amritsar", "Jalandhar", "Patiala", "Bathinda", "Panchkula", "Ambala"];
+const CITIES = ["Mohali", "Kharar", "Zirakpur", "Chandigarh", "Ludhiana", "Amritsar", "Patiala", "Jalandhar"];
 const BHK_OPTIONS = [1, 2, 3, 4];
 const FURNISHING_OPTIONS = ["furnished", "semi", "unfurnished"];
 const PARKING_OPTIONS = ["Yes", "No"];
